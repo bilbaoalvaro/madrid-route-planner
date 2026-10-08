@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# macOS and IDEs
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Downloaded/generated data
+data/direcciones.csv
+data/direcciones.csv.part
+data/madrid.graphml
+
+# Generated route maps
+results/*.html
