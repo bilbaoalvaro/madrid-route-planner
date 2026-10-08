@@ -1,0 +1,4 @@
+networkx==3.3
+osmnx==1.9.3
+pandas>=2.0,<3.0
+folium>=0.16,<1.0
